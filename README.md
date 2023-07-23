@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usman Waris</h1>
 <h3 align="center">A passionate Mobile App developer</h3>
 
-<img align="center" alt="codding" widht="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360">
+<img align="right" alt="codding" widht="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmancynosure&label=Profile%20views&color=0e75b6&style=flat" alt="usmancynosure" /> </p>
 
@@ -15,9 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/usman-waris-46a77b1b5/](https://www.linkedin.com/in/usman-waris-46a77b1b5/)
 
-- 💬 Ask me about **flutter,dart,java,DSA,OOP,C++**
+- 💬 Ask me about **->flutter,->dart,->java,->DSA,->OOP,->C++**
 
-- 📫 How to reach me **usmanwaris@gmail.com**
+- 📫 How to reach me **usmanwaris0987@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/usman-waris-46a77b1b5/](https://www.linkedin.com/in/usman-waris-46a77b1b5/)
 
