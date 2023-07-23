@@ -1,4 +1,4 @@
-<h1 align="center">Asalama o alaikum Everyone👋</h1>
+<h1 align="center">Asalam o alaikum Everyone👋</h1>
 <h2 align="center">I'm Usman Waris</h2>
 <h3 align="center">A passionate Mobile App developer</h3>
 
