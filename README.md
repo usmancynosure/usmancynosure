@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Usman Waris</h1>
+<h1 align="center">Asalama o alaikum Everyone👋</h1>
+<h2 align="center">I'm Usman Waris</h2>
 <h3 align="center">A passionate Mobile App developer</h3>
 
 <img align="right" alt="codding" widht="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360">
