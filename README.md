@@ -71,21 +71,23 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left">
-  - [Project 1](#) - Description
-  - [Project 2](#) - Description
-  - [Project 3](#) - Description
+  - [GYM management system (project in python) ](#) - 1st semester project, I used basic concept of python in this project.
+  - [ATM AND CDM Machine using Gui and OOP concept](#) - 3rd Semester Object Oriented Programming Project, I create the GUI based Application in Java using the OOP concept, in which firstly user chooses the ATM or CDM if the user Click on CDM they put the information of the recipient account and deposit the Amount after when they click on submit user information all display on screen after matching with database, 
+In ATM you simply create the Account, and All information of the user is saved in DATABASE Iuse to store information of the user, after that I existed user login in through the card number issued or pin code, and they are able to deposit the amount, withdraw the amount, generate a mini statement, etc,
+It was a great experience for me,
+
 </p>
 
 <h3 align="left">Latest Blog Posts:</h3>
 <p align="left">
-  - [Blog Post 1](#) - Title
-  - [Blog Post 2](#) - Title
-  - [Blog Post 3](#) - Title
+  - [CODINGTHUNDER](#) - working on blog using flask backend
+  
 </p>
 
 <h3 align="left">Skills:</h3>
 <p align="left">
   - Mobile App Development
+  -Flask web app development
   - Web App Development
   - UI/UX Design
   - Problem Solving
