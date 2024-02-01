@@ -58,14 +58,36 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
-<p>
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usmancynosure&show_icons=true&locale=en&layout=compact" alt="usmancynosure" />
 </p>
-
-<p>
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=usmancynosure&show_icons=true&locale=en" alt="usmancynosure" />
 </p>
-
-<p>
+<p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmancynosure&" alt="usmancynosure" />
+</p>
+
+<h3 align="left">Projects:</h3>
+<p align="left">
+  - [Project 1](#) - Description
+  - [Project 2](#) - Description
+  - [Project 3](#) - Description
+</p>
+
+<h3 align="left">Latest Blog Posts:</h3>
+<p align="left">
+  - [Blog Post 1](#) - Title
+  - [Blog Post 2](#) - Title
+  - [Blog Post 3](#) - Title
+</p>
+
+<h3 align="left">Skills:</h3>
+<p align="left">
+  - Mobile App Development
+  - Web App Development
+  - UI/UX Design
+  - Problem Solving
+  - Data Structures and Algorithms
 </p>
