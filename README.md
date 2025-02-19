@@ -1,6 +1,6 @@
 <h1 align="center">Hello Everyone! 👋</h1>
 <h2 align="center">I'm Usman Waris</h2>
-<h3 align="center">Passionate Mobile/Web App Developer</h3>
+<h3 align="center">Data Science | AL Engineer</h3>
 <br/>
 
 <img align="right" alt="code" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360">
@@ -15,13 +15,13 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Python Flask**
+- 🔭 I’m currently working on **AI ALGORITHM | AI AGENT | DATA SCIENCE | AWS **
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **AI | PYTHON | PYTHON LIBRARIES**
 
-- 👯 I’m looking to collaborate on **Mobile/Web App development**
+- 👯 I’m looking to collaborate on **AI PROJECTS**
 
-- 💬 Ask me about **Flutter, Dart, Java, DSA, OOP, C++, Python**
+- 💬 Ask me about **Flutter, Dart, Java, DSA, OOP, C++, Python, AI , DATA SCIENCE **
 
 - 📫 How to reach me: **usmanwaris0987@gmail.com**
 
