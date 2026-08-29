@@ -98,7 +98,12 @@ class UsmanWaris:
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=usmancynosure&hide_border=true&bg_color=141321&color=fe428e&line=f8d847&point=ffffff&title_color=fe428e" alt="activity graph" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usmancynosure&theme=radical" alt="repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=usmancynosure&theme=radical" alt="most commit language" />
+</p>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=usmancynosure&theme=radical&utcOffset=5" alt="productive time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=usmancynosure&theme=radical" alt="summary stats" />
 </p>
 
 ---
@@ -107,7 +112,7 @@ class UsmanWaris:
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/usmancynosure/usmancynosure/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/usmancynosure/usmancynosure/output/github-contribution-grid-snake-dark.svg?v=1" alt="snake" />
 </p>
 
 ---
