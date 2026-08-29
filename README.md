@@ -89,21 +89,21 @@ class UsmanWaris:
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=usmancynosure&show_icons=true&count_private=true&hide_border=true&theme=radical&title_color=fe428e&icon_color=f8d847" alt="stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmancynosure&layout=compact&hide_border=true&theme=radical&title_color=fe428e" alt="top langs" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=usmancynosure&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=fe428e&icon_color=f8d847&text_color=808080" alt="stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmancynosure&layout=compact&hide_border=true&theme=transparent&title_color=fe428e&text_color=808080" alt="top langs" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=usmancynosure&hide_border=true&theme=radical&ring=fe428e&fire=f8d847&currStreakLabel=fe428e" alt="streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=usmancynosure&hide_border=true&background=00000000&ring=fe428e&fire=f8d847&currStreakLabel=fe428e&sideLabels=808080&dates=808080&stroke=808080" alt="streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usmancynosure&theme=radical" alt="repos per language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=usmancynosure&theme=radical" alt="most commit language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usmancynosure&theme=transparent" alt="repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=usmancynosure&theme=transparent" alt="most commit language" />
 </p>
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=usmancynosure&theme=radical&utcOffset=5" alt="productive time" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=usmancynosure&theme=radical" alt="summary stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=usmancynosure&theme=transparent&utcOffset=5" alt="productive time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=usmancynosure&theme=transparent" alt="summary stats" />
 </p>
 
 ---
