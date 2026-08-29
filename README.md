@@ -1,6 +1,3 @@
----
-📄 File 1: README.md (root of usmancynosure/usmancynosure)
-
 <!-- ══════════════════ HEADER ══════════════════ -->
 <a href="https://github.com/usmancynosure">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fe428e,50:ff6ac1,100:f8d847&height=200&section=header&text=Usman%20Waris&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20•%20AI%20Engineer%20•%20Problem%20Solver&descSize=20&descAlignY=60" alt="header" />
@@ -116,6 +113,9 @@ class UsmanWaris:
 ---
 
 <!-- ══════════════════ WAKATIME ══════════════════ -->
+<!-- SETUP: sign up at wakatime.com (free), install its editor plugin, then add the
+     athul/waka-readme Action with your WAKATIME_API_KEY secret. The Action rewrites
+     everything between the two markers below on a schedule. -->
 ### ⏱️ Weekly Coding Breakdown
 
 <!--START_SECTION:waka-->
@@ -128,6 +128,8 @@ breakdown will render here automatically — no manual edits.
 ---
 
 <!-- ══════════════════ LATEST BLOG POSTS ══════════════════ -->
+<!-- SETUP: add the gautamkrishnar/blog-post-workflow Action pointed at your blog's RSS
+     feed; it fills the list between the markers below. -->
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -137,6 +139,8 @@ breakdown will render here automatically — no manual edits.
 ---
 
 <!-- ══════════════════ SPOTIFY ══════════════════ -->
+<!-- SETUP: visit spotify-github-profile.kittinanx.com, connect your Spotify, and it gives
+     you a personal ?uid=... link. Replace UID below with yours. -->
 ### 🎧 Now Playing
 
 <p align="center">
@@ -185,63 +189,3 @@ breakdown will render here automatically — no manual edits.
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f8d847,50:ff6ac1,100:fe428e&height=120&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=22&fontColor=ffffff&animation=twinkling" alt="footer" />
-
----
-🐍 File 2: .github/workflows/snake.yml
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
----
-⏱️ File 3: .github/workflows/waka.yml
-
-name: WakaReadme
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
----
-📝 File 4: .github/workflows/blog.yml
-
-name: Latest blog posts
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://YOUR-BLOG-URL/rss"
