@@ -144,24 +144,19 @@ breakdown will render here automatically — no manual edits.
 ---
 
 <!-- ══════════════════ SPOTIFY ══════════════════ -->
-<!-- SETUP: visit spotify-github-profile.kittinanx.com, connect your Spotify, and it gives
-     you a personal ?uid=... link. Replace UID below with yours. -->
+<!-- SETUP: visit spotify-github-profile.kittinanx.com, connect your Spotify, copy the
+     ?uid=... it gives you, then REPLACE this whole block with:
+
+     ### 🎧 Now Playing
+     <p align="center">
+       <a href="https://open.spotify.com/user/YOUR_UID">
+         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=novatorem&show_offline=true&bar_color=fe428e&bar_color_cover=true" alt="Spotify now playing" />
+       </a>
+     </p>
+-->
 ### 🎧 Now Playing
 
-<p align="center">
-  <a href="https://open.spotify.com/user/UID">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=UID&cover_image=true&theme=novatorem&show_offline=true&bar_color=fe428e&bar_color_cover=true" alt="Spotify now playing" />
-  </a>
-</p>
-
----
-
-<!-- ══════════════════ TROPHIES ══════════════════ -->
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usmancynosure&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
-</p>
+> 🎵 Connect Spotify at **spotify-github-profile.kittinanx.com** and swap this line for the live now-playing widget (see the HTML in the comment above).
 
 ---
 
